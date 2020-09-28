@@ -17,7 +17,7 @@ Original version lavet af [Mathias Rav](https://github.com/Mortal).
 * Installer [fbtk][install] i Violentmonkey
 
 [vm]: https://violentmonkey.github.io/get-it/
-[install]: https://raw.githubusercontent.com/Tyilo/fbtk/master/build/fbtk.user.js
+[install]: https://raw.githubusercontent.com/MARATVE/fbtk/master/build/fbtk.user.js
 
 ## Indstillinger
 
